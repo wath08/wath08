@@ -4,7 +4,7 @@
 
 # Hi there! I'm Vath 
 
-I am a **Computer Science student** at the **Royal University of Phnom Penh (RUPP)**. I have a background in **IT Support** and I'm currently pivoting towards **AI Engineer** And **Software Development**.
+I am a **Computer Science student** at the **Royal University of Phnom Penh (RUPP)**. I'm currently pivoting towards **AI Engineer** And **Software Development**.
 
 ---
 
